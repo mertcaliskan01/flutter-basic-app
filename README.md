@@ -2,17 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Simulator Screen Shot - iPhone 13 Pro - 2022-10-24 at 23 07 04](https://user-images.githubusercontent.com/47431669/197618831-62f1b6a5-8d0a-4355-9b14-167ba5526f42.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screen Shot - iPhone 13 Pro - 2022-10-24 at 23 06 55](https://user-images.githubusercontent.com/47431669/197618849-b5e5a32d-d47b-44ab-82eb-64524fa6a0a1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Simulator Screen Shot - iPhone 13 Pro - 2022-10-24 at 23 06 50](https://user-images.githubusercontent.com/47431669/197618852-4c1a78cd-c63b-4b3a-b46b-25a142ef2654.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Command Shift P => Select Device
